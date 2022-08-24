@@ -1,0 +1,31 @@
+body {
+    background: #F8E5EE;
+}
+
+section {
+    background: #EECF6D;
+}
+
+.main-header {
+    color: #9b3852;
+}
+
+.special-header {
+    color: #636940;
+}
+
+.special-header {
+    color: #bf211e;
+}
+
+a {
+    color: rgb(151, 42, 2);
+}
+
+nav a {
+    color: #3C3C3C;
+}
+
+footer {
+    color: rgba(0, 0, 0, 0.616);
+}
